@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+![Profile Image](/profile.jpg "It's me!")

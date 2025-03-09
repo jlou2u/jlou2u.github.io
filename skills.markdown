@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Technical Skills
-permalink: /skills/
+title: Tech
+permalink: /tech/
 ---
 
 # My Technical Skills & Expertise
