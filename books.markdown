@@ -82,7 +82,10 @@ Books are the quiet companions of my intellectual journey, guiding, challenging,
 
 ## Stalled
 
-- *
+- *2666* by Robert Bolano
+- *Eruption* by Michael Crichton and James Patterson
+- *The Brothers Karamazov* by Fyodor Dostoevsky
+- *Solaris* by Stanislaw Lem
 
 
 📚✨
