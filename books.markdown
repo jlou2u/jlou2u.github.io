@@ -19,12 +19,12 @@ Books are the quiet companions of my intellectual journey, guiding, challenging,
 
 ## Recently Completed
 
-| Title                      | Author            | Date Finished | Re-read? |
-|----------------------------|-------------------|---------------|----------|
-| *The World According to Garp* | John Irving    | 2025-02-20    | Y        |
-| *The Road*                 | Cormac McCarthy   | 2024          | Y        |
-| *James*                    | Percival Everett  | 2024          | Y        |
-| *Piranesi*                 | Susanna Clarke    | 2024          | Y        |
+| Title                                        | Author            | Date Finished | Re-read? |
+|----------------------------------------------|-------------------|---------------|----------|
+| *[The World According to Garp](/books/garp)* | John Irving       | 2025-02-20    | Y        |
+| *[The Road](/books/the-road)*                | Cormac McCarthy   | 2024          | Y        |
+| *James*                                      | Percival Everett  | 2024          | Y        |
+| *Piranesi*                                   | Susanna Clarke    | 2024          | Y        |
 
 <details>
 <summary>### Less recently completed
