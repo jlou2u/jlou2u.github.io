@@ -10,14 +10,13 @@ Books are the quiet companions of my intellectual journey, guiding, challenging,
 
 ## Currently Reading (Audiobooks)
 
-- *The Sportswriter, Richard Ford* – Found this after reading some of Rock Springs
-- *Lullaby, Chuck Palahniuk* – Started listening to this when I had trouble sleeping
-- *The Maze Cutter, James Dashner* – Listening to this with Audrey
-- *The Three-Body Problem, Cixin Liu* – Listening to this with Suprina
+- *The Three-Body Problem, Cixin Liu* – Already read but listening again with Suprina
+- *Event, David L. Golemon* - almost done, kind of boring
+- *Heat 2: A Novel, Michael Mann and Meg Gardiner* - fun so far
 
 ---
 
-## Recently Completed
+## Recently Finished
 
 | Title                                        | Author            | Date Finished | Re-read? |
 |----------------------------------------------|-------------------|---------------|----------|
@@ -25,10 +24,14 @@ Books are the quiet companions of my intellectual journey, guiding, challenging,
 | *[The Road](/books/the-road)*                | Cormac McCarthy   | 2024          | Y        |
 | *James*                                      | Percival Everett  | 2024          | Y        |
 | *Piranesi*                                   | Susanna Clarke    | 2024          | Y        |
+| *The Golden Compass*                         | Philip Pullman    | 2025          |          |
+| *Lullaby*                                    | Chuck Palahniuk   | 2025          |          |
+| *The Maze Cutter*                            | James Dashner     | 2025          |          |
+| *A Wrinkle in Time*                          | Madeleine L'Engle | 2025          |          |
+| *No Country for Old Men*                     | Cormac McCarthy   | 2025          |          |
 
 <details>
-<summary>### Less recently completed
-</summary>
+<summary>### Less recently finished</summary>
 
 | Title                      | Author            | Date Finished | Re-read? |
 |----------------------------|-------------------|---------------|----------|
@@ -64,10 +67,8 @@ Books are the quiet companions of my intellectual journey, guiding, challenging,
 ## On My Reading List
 
 - *Nostromo* by Joseph Conrad
-- *Heat 2* by Michael Mann and Meg Gardiner
 - *Jane Eyre* by Charlotte Bronte (for when Audrey is done with Maze Runner series)
 - *Demon Copperhead* by Barbara Kingsolver
-- *The Golden Compass* by Philip Pullman (for with Audrey)
 - *The Crossing* by Cormac McCarthy (2nd book in Border Trilogy following All the Pretty Horses)
 - *Cities of the Plain* by Cormac McCarthy (3rd book in Border Trilogy)
 - *Parable of the Sower* by Octavia Butler
@@ -86,6 +87,7 @@ Books are the quiet companions of my intellectual journey, guiding, challenging,
 - *Eruption* by Michael Crichton and James Patterson
 - *The Brothers Karamazov* by Fyodor Dostoevsky
 - *Solaris* by Stanislaw Lem
+- *The Sportswriter, Richard Ford* – Found this after reading some of Rock Springs
 
 
 📚✨
